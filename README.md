@@ -5,7 +5,7 @@ The first repo from the first night of class
 - cd - change directory (Can start typing file name then hit tab to autofill name in terminal)
 - ls - list all the things in the current directory
 - pwd - print working directory (print current location)
-- touch - creates files
+- touch - creates files (Can create multiple files or folders with one command separated by spaces)
 - mkdir - make directory - creates folders (Can create multiple files or folders with one command separated by spaces)
 - clear - clear the terminal
 
